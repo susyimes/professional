@@ -1,2 +1,2 @@
-# C4 model
+# C4 model tec design
   https://c4model.com/
